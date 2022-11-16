@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\emsgard.johan\\Programering 2\\LabAPI\\LabAPI\\LabAPI.csproj": {}
+    "C:\\Users\\emsgard.johan\\Programering 2\\LabAPI\\LabAPI\\LabAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\emsgard.johan\\Programering 2\\LabAPI\\LabAPI\\LabAPI.csproj": {
+    "C:\\Users\\emsgard.johan\\Programering 2\\LabAPI\\LabAPI\\LabAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\emsgard.johan\\Programering 2\\LabAPI\\LabAPI\\LabAPI.csproj",
+        "projectUniqueName": "C:\\Users\\emsgard.johan\\Programering 2\\LabAPI\\LabAPI\\LabAPI.csproj",
         "projectName": "LabAPI",
-        "projectPath": "c:\\Users\\emsgard.johan\\Programering 2\\LabAPI\\LabAPI\\LabAPI.csproj",
+        "projectPath": "C:\\Users\\emsgard.johan\\Programering 2\\LabAPI\\LabAPI\\LabAPI.csproj",
         "packagesPath": "C:\\Users\\emsgard.johan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\emsgard.johan\\Programering 2\\LabAPI\\LabAPI\\obj\\",
+        "outputPath": "C:\\Users\\emsgard.johan\\Programering 2\\LabAPI\\LabAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

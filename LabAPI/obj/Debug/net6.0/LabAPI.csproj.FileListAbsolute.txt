@@ -1,0 +1,17 @@
+C:\Users\emsgard.johan\Programering 2\LabAPI\LabAPI\bin\Debug\net6.0\LabAPI.exe
+C:\Users\emsgard.johan\Programering 2\LabAPI\LabAPI\bin\Debug\net6.0\LabAPI.deps.json
+C:\Users\emsgard.johan\Programering 2\LabAPI\LabAPI\bin\Debug\net6.0\LabAPI.runtimeconfig.json
+C:\Users\emsgard.johan\Programering 2\LabAPI\LabAPI\bin\Debug\net6.0\LabAPI.dll
+C:\Users\emsgard.johan\Programering 2\LabAPI\LabAPI\bin\Debug\net6.0\LabAPI.pdb
+C:\Users\emsgard.johan\Programering 2\LabAPI\LabAPI\bin\Debug\net6.0\RestSharp.dll
+C:\Users\emsgard.johan\Programering 2\LabAPI\LabAPI\obj\Debug\net6.0\LabAPI.csproj.AssemblyReference.cache
+C:\Users\emsgard.johan\Programering 2\LabAPI\LabAPI\obj\Debug\net6.0\LabAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emsgard.johan\Programering 2\LabAPI\LabAPI\obj\Debug\net6.0\LabAPI.AssemblyInfoInputs.cache
+C:\Users\emsgard.johan\Programering 2\LabAPI\LabAPI\obj\Debug\net6.0\LabAPI.AssemblyInfo.cs
+C:\Users\emsgard.johan\Programering 2\LabAPI\LabAPI\obj\Debug\net6.0\LabAPI.csproj.CoreCompileInputs.cache
+C:\Users\emsgard.johan\Programering 2\LabAPI\LabAPI\obj\Debug\net6.0\LabAPI.csproj.CopyComplete
+C:\Users\emsgard.johan\Programering 2\LabAPI\LabAPI\obj\Debug\net6.0\LabAPI.dll
+C:\Users\emsgard.johan\Programering 2\LabAPI\LabAPI\obj\Debug\net6.0\refint\LabAPI.dll
+C:\Users\emsgard.johan\Programering 2\LabAPI\LabAPI\obj\Debug\net6.0\LabAPI.pdb
+C:\Users\emsgard.johan\Programering 2\LabAPI\LabAPI\obj\Debug\net6.0\LabAPI.genruntimeconfig.cache
+C:\Users\emsgard.johan\Programering 2\LabAPI\LabAPI\obj\Debug\net6.0\ref\LabAPI.dll
