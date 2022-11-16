@@ -9,6 +9,7 @@ if (response.StatusCode == HttpStatusCode.OK)
 {
     Jedi j = JsonSerializer.Deserialize<Jedi>(response.Content);
     Console.WriteLine(j.name);
+    Console.WriteLine(j.height);
 
 }
 
