@@ -6,5 +6,5 @@ public class Jedi
     public string name { get; set; }
 
     [JsonPropertyName("height")]
-    public int height { get; set; }
+    public string height { get; set; }
 }
